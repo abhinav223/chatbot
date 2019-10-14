@@ -27,3 +27,4 @@ class telegram_chatbot():
         return parser.get('creds', 'token')
 
 #a=input('enter')
+#end of class telegram_chatbot
